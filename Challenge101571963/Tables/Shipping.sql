@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Shipping]
+(
+	[ShipMode] NVARCHAR(20) NOT NULL,
+	CONSTRAINT PK_SHIPPING PRIMARY KEY (ShipMode)
+)

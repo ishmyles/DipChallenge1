@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Category]
+(
+	[CatID] INT NOT NULL,
+	[CatName] NVARCHAR(20),
+	CONSTRAINT PK_CATEGORY PRIMARY KEY (CatID)
+)

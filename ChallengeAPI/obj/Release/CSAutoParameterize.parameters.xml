@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ChallengeDBEntities-Web.config Connection String" description="ChallengeDBEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.ChallengeData.csdl|res://*/Models.ChallengeData.ssdl|res://*/Models.ChallengeData.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=hadoukendb.database.windows.net;initial catalog=ChallengeDB;persist security info=True;user id=ishmyles;password=Hadouken7236;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ishmyles\\Desktop\\Challenge101571963\\ChallengeAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ChallengeDBEntities']/@connectionString" />
+  </parameter>
+</parameters>

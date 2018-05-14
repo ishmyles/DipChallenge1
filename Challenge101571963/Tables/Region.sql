@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Region]
+(
+	[Region] NVARCHAR(10) NOT NULL,
+	CONSTRAINT PK_REGION PRIMARY KEY (Region)
+)

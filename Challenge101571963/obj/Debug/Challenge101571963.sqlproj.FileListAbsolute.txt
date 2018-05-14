@@ -1,0 +1,6 @@
+C:\Users\ishmyles\Desktop\Challenge101571963\Challenge101571963\bin\Debug\Challenge101571963.dacpac
+C:\Users\ishmyles\Desktop\Challenge101571963\Challenge101571963\obj\Debug\Challenge101571963.sqlprojResolveAssemblyReference.cache
+C:\Users\ishmyles\Desktop\Challenge101571963\Challenge101571963\obj\Debug\Challenge101571963.dll
+C:\Users\ishmyles\Desktop\Challenge101571963\Challenge101571963\obj\Debug\Challenge101571963.pdb
+C:\Users\ishmyles\Desktop\Challenge101571963\Challenge101571963\bin\Debug\Challenge101571963.dll
+C:\Users\ishmyles\Desktop\Challenge101571963\Challenge101571963\bin\Debug\Challenge101571963.pdb
